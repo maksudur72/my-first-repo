@@ -1,14 +1,15 @@
-h1{
-    background-color: darkorange;
-}
-h2{
-    background-color: darkslateblue;
-    color: white;
-}
+
 p{
     background-color: lightgreen;
     color: blue;
 }
 h3{
     background-color: brown;
+}
+h1{
+    background-color: darkorange;
+}
+h2{
+    background-color: darkslateblue;
+    color: white;
 }
